@@ -18,13 +18,13 @@ p {
   background-color: #333;
   overflow: hidden;
 }
-/* attempt at title heading */
+/* Title attempt */
 .topnav p {
   color: #f2f2f2;
-  text-align: left;
+  text-align: right;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 17px;
 }
 /* Style the links inside the navigation bar */
 .topnav a {
