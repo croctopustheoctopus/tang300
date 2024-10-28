@@ -77,3 +77,13 @@ td {
   background-color: #04AA6D;
   color: white;
 }
+
+/*FOOTER*/
+#footer {
+	float: left;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	text-align: center;
+	bottom: 0px;
+	width: 100%;
+}
