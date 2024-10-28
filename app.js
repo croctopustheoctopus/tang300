@@ -1,7 +1,7 @@
 
 
-/* NAVIGATION BAR */
-/* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
+/* NAVIGATION BAR 
+/* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon
 function topNavSquish() {
   var x = document.getElementById("myTopnav");
   if (x.className === "topnav") {
@@ -10,4 +10,4 @@ function topNavSquish() {
     x.className = "topnav";
   }
 }
- 
+*/ 
