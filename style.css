@@ -1,9 +1,5 @@
 /* GENERAL STYLE GUIDELINES */
 
-body {
-  background-color: #FAF0E6;
-}
-
 /* heading attempt */
 h1 {
   color: #f2f2f2;
@@ -15,6 +11,15 @@ h1 {
 
 p {
 
+}
+
+body {
+  background-color: #FAF0E6;
+  color: #333;
+  text-align: left;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
 }
 
 /* NAVIGATION BAR
