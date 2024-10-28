@@ -10,3 +10,4 @@ function topNavSquish() {
     x.className = "topnav";
   }
 }
+ 
