@@ -26,7 +26,33 @@ body {
   font-size: 17px;
 }
 
+/* TEXT WRAPPING */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid red;
+  table-layout: fixed;
+}
+th {
+  text-align: left;
+  border-bottom: 1pt solid #4C4C4C;
+  border-right: 1pt solid #4C4C4C;
+  padding: 8px;
+  width: 20%;
+}
+
+td {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  width: 100%;
+  border: 1px solid #000000;
+  word-wrap: break-word;
+}
+
 /* NAVIGATION BAR
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
