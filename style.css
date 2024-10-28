@@ -81,8 +81,7 @@ td {
 /*FOOTER*/
 #footer {
 	float: left;
-	padding-bottom: 10px;
-	padding-top: 10px;
+	padding: 14px 10px;
 	text-align: left;
-	bottom: 2px;
+	bottom: 0px;
 }
