@@ -45,6 +45,11 @@ body {
   text-decoration: none;
 }
 
+sup {
+  vertical-align: super;
+  font-size: smaller;
+}
+
 /* TEXT WRAPPING */
 
 table {
