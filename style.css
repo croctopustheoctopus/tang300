@@ -4,7 +4,7 @@
 h1 {
   color: #333;
   text-align: center;
-  padding: 8px;
+  padding: 0px;
   text-decoration: none;
   font-size: 20px;
 line-height: 12px;
@@ -13,7 +13,7 @@ line-height: 12px;
 h2 {
   color: #333;
   text-align: left;
-  padding: 14px 16px 0px;
+  padding: 0px 16px;
   text-decoration: none;
   font-size: 20px;
 line-height: 8px;
@@ -22,7 +22,7 @@ line-height: 8px;
 h3 {
   color: #333;
   text-align: left;
-  padding: 14px 16px 0px;
+  padding: 0px 16px;
   text-decoration: none;
   font-size: 16px;
 line-height: 8px;
@@ -31,7 +31,7 @@ line-height: 8px;
 p {
  color: #333;
   text-align: left;
-  padding: 14px 16px 0px;
+  padding: 0px 16px;
   text-decoration: none;
   font-size: 16px;
 display: block;
@@ -41,7 +41,7 @@ body {
   background-color: #FAF0E6;
   color: #333;
   text-align: left;
-  padding: 14px 16px 0px;
+  padding: 14px 16px;
   text-decoration: none;
 }
 
