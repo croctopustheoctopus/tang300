@@ -51,15 +51,16 @@ table {
 }
 /*header cells BOLD*/
 th {
-  text-align: left;
+  text-align: center;
   border-bottom: 1pt solid #FAF0E6;
   border-right: 1pt solid #FAF0E6;
   padding: 8px;
-  width: 20%;
+  width: 100%;
 }
 /*standard cells*/
 td {
-  white-space: nowrap;
+   text-align: left;
+white-space: nowrap;
   text-overflow: ellipsis;
   overflow: hidden;
   width: 100%;
