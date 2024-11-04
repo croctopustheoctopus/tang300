@@ -13,7 +13,7 @@ line-height: 12px;
 h2 {
   color: #333;
   text-align: left;
-  padding: 14px 16px;
+  padding: 14px 16px 0px;
   text-decoration: none;
   font-size: 20px;
 line-height: 8px;
@@ -22,7 +22,7 @@ line-height: 8px;
 h3 {
   color: #333;
   text-align: left;
-  padding: 14px 16px;
+  padding: 14px 16px 0px;
   text-decoration: none;
   font-size: 16px;
 line-height: 8px;
