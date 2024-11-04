@@ -17,6 +17,7 @@ h2 {
   text-decoration: none;
   font-size: 20px;
 line-height: 8px;
+margin: 16px
 }
 
 h3 {
@@ -26,6 +27,7 @@ h3 {
   text-decoration: none;
   font-size: 16px;
 line-height: 8px;
+margin: 16px
 }
 
 
@@ -36,8 +38,8 @@ p {
   text-decoration: none;
   font-size: 16px;
 display: block;
-margin-before: 1em;
-margin-after: 1em;
+margin-before: 16px;
+margin-after: 16px;
 margin-start: 0;
 margin-end: 0; 
 }
@@ -48,7 +50,7 @@ body {
   text-align: left;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 16px;
 }
 
 /* TEXT WRAPPING */
