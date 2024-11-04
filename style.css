@@ -98,11 +98,11 @@ font-weight: normal;
   color: white;
 }
 
-/* Nav Bars for Poems */
+/* Nav Buttons for Poems */
 a {
   text-decoration: none;
   display: inline-block;
-  padding: 8px 16px;
+  padding: 14px 16px;
 }
 a:hover {
   background-color: #ddd;
