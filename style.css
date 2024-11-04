@@ -45,6 +45,7 @@ body {
 
 table {
   width: 100%;
+padding: 14px 16px;
   border-collapse: collapse;
   border: 1px #FAF0E6;
   table-layout: fixed;
