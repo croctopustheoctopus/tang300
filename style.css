@@ -46,23 +46,24 @@ body {
 table {
   width: 100%;
   border-collapse: collapse;
-  border: 1px solid red;
+  border: 1px #FAF0E6;
   table-layout: fixed;
 }
+/*header cells BOLD*/
 th {
   text-align: left;
-  border-bottom: 1pt solid #4C4C4C;
-  border-right: 1pt solid #4C4C4C;
+  border-bottom: 1pt solid #FAF0E6;
+  border-right: 1pt solid #FAF0E6;
   padding: 8px;
   width: 20%;
 }
-
+/*standard cells*/
 td {
   white-space: nowrap;
   text-overflow: ellipsis;
   overflow: hidden;
   width: 100%;
-  border: 1px solid #000000;
+  border: 1px solid #FAF0E6;
   word-wrap: break-word;
 }
 
