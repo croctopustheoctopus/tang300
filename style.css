@@ -49,9 +49,10 @@ table {
   border: 1px #FAF0E6;
   table-layout: fixed;
 }
-/*header cells BOLD*/
+/*header cells*/
 th {
   text-align: center;
+font-weight: normal;
   border-bottom: 1pt solid #FAF0E6;
   border-right: 1pt solid #FAF0E6;
   padding: 8px;
@@ -61,6 +62,7 @@ th {
 td {
    text-align: left;
 white-space: nowrap;
+font-weight: normal;
   text-overflow: ellipsis;
   overflow: hidden;
   width: 100%;
