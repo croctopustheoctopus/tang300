@@ -51,7 +51,7 @@ table {
 }
 /*header cells*/
 th {
-  text-align: center;
+  text-align: left;
 font-weight: normal;
   border-bottom: 1pt solid #FAF0E6;
   border-right: 1pt solid #FAF0E6;
